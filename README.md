@@ -1,2 +1,2 @@
-# androidapp
- java, xml, sqllite
+# groovyMSsql
+ demo of groovy and MS sql connection
